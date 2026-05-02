@@ -1,0 +1,30 @@
+[
+  {
+    "name": "  JOHN DOE ",
+    "email": "JOHN@MAIL.COM",
+    "age": "30",
+    "phone": "+1 (555) 123-456",
+    "active": "yes"
+  },
+  {
+    "name": null,
+    "email": "invalid-email",
+    "age": "unknown",
+    "phone": null,
+    "active": "true"
+  },
+   {
+    "name": "siritbb",
+    "email": "invalid-email",
+    "age": "unknown",
+    "phone": null,
+    "active": "true"
+  },
+  {
+    "name": "  ANNIE JOE ",
+    "email": "ANNIEJOE@MAIL.COM",
+    "age": "30",
+    "phone": "+1 (555) 123-456",
+    "active": "TRUE"
+  }
+]
